@@ -19,7 +19,7 @@ Once installed with Alfred you can run the following commands
 
 Download
 ----------------
-[Instant Cosby](https://github.com/phpfunk/alfred-instant-cosby/downloads)
+[Instant Cosby](https://github.com/phpfunk/alfred-instant-cosby/archive/master.zip)
     
 
 ## Version History ##
