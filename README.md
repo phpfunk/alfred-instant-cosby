@@ -6,7 +6,7 @@ An AppleScript to get a URL to a random gif from Instant Cosby from [Alfred App]
 Installation
 ----------------
 
-To double click on the extension file.
+Double click on the extension file.
 
 How to use
 ----------------
