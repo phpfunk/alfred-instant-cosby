@@ -1,0 +1,11 @@
+on alfred_script(q)
+	set n to random number from 1 to 66
+	set n to n as string
+	if length of n is equal to 1 then
+		set n to "00" & n
+	else
+		set n to "0" & n
+	end if
+	
+	set the clipboard to "http://www.instantcosby.com/img/" & n & ".gif" as text
+end alfred_script
