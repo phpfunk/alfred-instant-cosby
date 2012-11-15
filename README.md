@@ -1,7 +1,7 @@
 Instant Cosby for Alfred
 ============
 
-An AppleScript to a URL to a random gif from Instant Cosby from [Alfred App](http://alfredapp.com/). You will need Alfred and the Powerpack to use this.
+An AppleScript to get a URL to a random gif from Instant Cosby from [Alfred App](http://alfredapp.com/). You will need Alfred and the Powerpack to use this.
 
 Installation
 ----------------
