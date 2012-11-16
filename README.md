@@ -17,12 +17,16 @@ Once installed with Alfred you can run the following commands
     - Then paste from your clipboard. Totally random at this time.
 
 
-Shell Script
+Shell Script (cosby.sh)
 ----------------
 * You can use just the shell script as well
 * Simply save cosby.sh to your filesystem, then chmod 775 cosby.sh, then run ./cosby.sh
 * That will save a random Bill Cosby gif to your clipboard (OS X only)
 * Hint: create an alias to: $ cd /your/dir ; sudo ./cosby.sh
+
+JavaScript (cosby.html)
+----------------
+* You can set up your own site to randomly display a new Cosby image every 5 seconds
 
 
 Download
