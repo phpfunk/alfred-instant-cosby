@@ -36,6 +36,9 @@ Download
 
 ## Version History ##
 
+### 1.0.2 - November 15, 2012###
+ - Added html/js auto-refresher
+
 ### 1.0.1 - November 15, 2012###
  - Added shell script to do the same thing
 
