@@ -5,6 +5,10 @@ An AppleScript to get a URL to a random gif from Instant Cosby from [Alfred App]
 
 <img src="http://www.instantcosby.com/img/015.gif" border="0" />
 
+## [Instant Cosby ready for Alfred Version 2](https://github.com/phpfunk/alfred-instant-cosby/tree/v2)
+
+[Read about it here.](https://github.com/phpfunk/alfred-instant-cosby/tree/v2)
+
 Installation
 ----------------
 
@@ -34,7 +38,7 @@ JavaScript (cosby.html)
 Download
 ----------------
 [Instant Cosby](https://github.com/phpfunk/alfred-instant-cosby/archive/master.zip)
-    
+
 
 ## Version History ##
 
