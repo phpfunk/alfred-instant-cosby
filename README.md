@@ -32,6 +32,9 @@ Just type `cosby` and click `Enter`. A random URL will be copied to your clipboa
 
 ## Version History
 
+### 2.0.1 - January 21, 2013
+* Update bundle ID
+
 ### 2.0.0 - January 14, 2013
 * Updated for version 2 of Alfred
 * Removed AppleScript and just ran with shell
